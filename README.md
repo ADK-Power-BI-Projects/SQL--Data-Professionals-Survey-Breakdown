@@ -2,7 +2,7 @@
 This contains my SQL projects
 ---
 
-### **1. Data Professional Survey Breakdown Project**
+### **Data Professional Survey Breakdown Project**
 
 # Data Professional Survey Breakdown
 
